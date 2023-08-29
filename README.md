@@ -23,7 +23,7 @@ Welcome to the Angular eCommerce App repository! This app is designed to showcas
 
 ### Installation
 
-1. Clone this repository: `git clone https://github.com/yourusername/angular-ecommerce-app.git`
+1. Clone this repository: `git clone https://github.com/Abdull-Haseeb/Angular-Ecommerce-Appt`
 2. Navigate to the project directory: `cd angular-ecommerce-app`
 3. Install dependencies: `npm install`
 
